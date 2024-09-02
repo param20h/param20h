@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Paramjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=param20h&layout=compact)
-<img src="https://example.com/your-animated-svg.svg" width="400" height="300">
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 [![Twitter](https://img.shields.io/twitter/follow/param20h?style=social)](https://twitter.com/param20h)
