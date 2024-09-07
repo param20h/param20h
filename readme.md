@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def fetch_gfg_stats(username):
-    url = f"https://auth.geeksforgeeks.org/user/{username}/practice/"
+    url = f"https://auth.geeksforgeeks.org/user/{param_06_}/practice/"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -14,12 +14,12 @@ def fetch_gfg_stats(username):
     return stats
 
 def update_readme(stats):
-    with open("README.md", "r") as file:
+    with open("readme.md", "r") as file:
         lines = file.readlines()
 
     # Modify the lines to include your stats (implement your custom logic here)
 
-    with open("README.md", "w") as file:
+    with open("readme.md", "w") as file:
         file.writelines(lines)
 
 if __name__ == "__main__":
