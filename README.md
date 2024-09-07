@@ -22,6 +22,5 @@ You can click the Preview link to take a look at your changes.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/param.060)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/param20h)
-[![Connect on LinkedIn](https://github.com/param20h/my-images/blob/main/linkedin.png)](https://www.linkedin.com/in/param20h)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/param20h)
 
