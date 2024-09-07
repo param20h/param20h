@@ -4,13 +4,12 @@
   I’m a tech enthusiast who loves diving into new challenges, whether it’s solving complex algorithms or exploring the latest AI trends. Outside of tech, you’ll find me exploring music, gaming, and the latest in pop culture!
 
 ## **💬 Ask Me About:**<br>
-AI & Machine Learning 🧠<br>
-Blockchain & Web3 Development 🌐<br>
-Full-Stack Web Development 💻
+- AI & Machine Learning 🧠<br>
+-Blockchain & Web3 Development 🌐<br>
 
 ## **👯 Looking to Collaborate On:**<br>
-Innovative tech projects in AI, Web3, and cloud computing.<br>
-Open-source contributions and hackathons like SIH23.
+- Innovative tech projects in AI, Web3, and cloud computing.<br>
+- Open-source contributions and hackathons like SIH23.
 
 ## 🚀 Technologies & Tools
 ![](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)
