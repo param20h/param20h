@@ -13,7 +13,7 @@ Innovative tech projects in AI, Web3, and cloud computing.<br>
 Open-source contributions and hackathons like SIH23.
 
 ## 🚀 Technologies & Tools
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=&logoColor=white)
 [![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
