@@ -7,8 +7,8 @@ AI & Machine Learning 🧠<br>
 Blockchain & Web3 Development 🌐<br>
 Full-Stack Web Development 💻
 
-## **👯 Looking to Collaborate On:**
-Innovative tech projects in AI, Web3, and cloud computing.
+## **👯 Looking to Collaborate On:**<br>
+Innovative tech projects in AI, Web3, and cloud computing.<br>
 Open-source contributions and hackathons like SIH23.
 
 ## 🚀 Technologies & Tools
