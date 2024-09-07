@@ -14,12 +14,12 @@ Open-source contributions and hackathons like SIH23.
 
 ## 🚀 Technologies & Tools
 ![](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)
-[![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 
 
 
@@ -27,7 +27,7 @@ Open-source contributions and hackathons like SIH23.
 ![](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/param.060)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/param20h)
+[![X](https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
+[![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/param.060)
+[![](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/param20h)
 
