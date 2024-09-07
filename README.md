@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @prince. 
+- 👋 Hi, I’m @Param. 
 - 👀 
-  I'm a passionate BTech CSE student eager to learn about the upcoming technologies and contribute to innovative projects. Feel free to connect with me on LinkedIn
-<!---
-param20h/param20h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I’m a tech enthusiast who loves diving into new challenges, whether it’s solving complex algorithms or exploring the latest AI trends. Outside of tech, you’ll find me exploring music, gaming, and the latest in pop culture!
 
+##💬 Ask Me About:
+AI & Machine Learning 🧠
+Blockchain & Web3 Development 🌐
+Full-Stack Web Development 💻
 
+##👯 Looking to Collaborate On:
+Innovative tech projects in AI, Web3, and cloud computing.
+Open-source contributions and hackathons like SIH23.
 ## 🚀 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
