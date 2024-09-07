@@ -16,12 +16,12 @@ jobs:
           python-version: '3.x'
       - name: Install Dependencies
         run: pip install beautifulsoup4 requests
-      - name: Update README with GFG Stats
+      - name: Update readme with GFG Stats
         run: python your_script.py  # Replace with your actual script name
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add readme.md
           git commit -m "Update GFG Stats"
           git push
