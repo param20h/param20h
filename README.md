@@ -27,7 +27,7 @@ Open-source contributions and hackathons like SIH23.
 ![](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-[![X](https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
 [![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/param.060)
 [![](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/param20h)
 
