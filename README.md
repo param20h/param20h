@@ -5,12 +5,15 @@
 param20h/param20h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/param20h)
+
 
 ## 🚀 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+
+
 
 ## 📈 GitHub Stats
 ![Paramjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
@@ -19,5 +22,6 @@ You can click the Preview link to take a look at your changes.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/param.060)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/param20h)
+[![Connect on LinkedIn](https://github.com/param20h/my-images/blob/main/linkedin.png)](https://www.linkedin.com/in/param20h)
 
 
