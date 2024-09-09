@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs at 5:00 AM every day
     - cron: "0 5 * * *"
+  push:
+    branches:
+      - main  # Specify the branch you want to trigger on push (e.g., main)
   workflow_dispatch:
 
 jobs:
