@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 5:00 AM every day
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          # GitHub user name to generate the snake animation
+          # works with the user name or any organization name
+          github_user_name: param20h
+
+          # Output path for the generated animation
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Upload the Snake Animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
