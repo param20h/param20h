@@ -5,7 +5,7 @@
 
 ## **💬 Ask Me About:**<br>
 - AI & Machine Learning 🧠<br>
--Blockchain & Web3 Development 🌐<br>
+- Blockchain & Web3 Development 🌐<br>
 
 ## **👯 Looking to Collaborate On:**<br>
 - Innovative tech projects in AI, Web3, and cloud computing.<br>
