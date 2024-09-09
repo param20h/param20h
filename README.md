@@ -21,9 +21,6 @@
 [![](https://img.shields.io/badge/-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 
-## GitHub Contributions Snake 🐍
-
-![GitHub Snake Animation](https://github.com/param20h/param20h/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
