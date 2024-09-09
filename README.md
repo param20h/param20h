@@ -22,8 +22,6 @@
 [![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
-<iframe src="https://param20h.github.io/snake-game/" width="400" height="420" frameborder="0"></iframe>
-
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
 
