@@ -20,6 +20,7 @@
 [![](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://img.shields.io/badge/-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![An image of @param20h's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/param20h)](https://holopin.io/@param20h)
 
 
 ## 📈 GitHub Stats
