@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=radical)
-[![An image of @param20h's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/param20h)](https://holopin.io/@param20h)
+
 
 ## 🌐 Connect with Me
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/param20h)
