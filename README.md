@@ -21,7 +21,8 @@
 [![](https://img.shields.io/badge/-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Linux](https://img.shields.io/badge/-?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+
 
 
 
