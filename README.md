@@ -39,3 +39,6 @@
 [![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/param.060)
 [![](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/param20h)
 
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparam20h&count_bg=%23868A8B&title_bg=%23000000&icon=pixiv.svg&icon_color=%23F70202&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
