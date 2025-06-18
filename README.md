@@ -16,7 +16,6 @@
 [![](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://img.shields.io/badge/-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
