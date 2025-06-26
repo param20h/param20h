@@ -24,17 +24,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,react,vite,aws,mysql" />
 
 </div>
+
+## 🎯 Fun Facts
+
+- 🎮 Gaming enthusiast who codes between matches
+- 🎵 Music lover - coding playlist has 500+ songs
+- 🌙 Night owl - best code happens after midnight
+- ☕ Coffee dependency level: CRITICAL
+- - 🚀 Dream: Build the next unicorn startup
 
 ## 📊 GitHub Stats
 
@@ -46,11 +46,19 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=param20h&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 ## 🐍 GitHub Contributions Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/param20h/param20h/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
+  <img src="https://github.com/param20h/param20h/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
 </div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -65,4 +73,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=param20h&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/param20h?label=Followers&style=social" alt="GitHub Followers" />
 </div>
