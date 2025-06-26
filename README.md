@@ -46,7 +46,11 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=param20h&theme=tokyonight" alt="GitHub Streak" />
 </div>
+## 🐍 GitHub Contributions Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/param20h/param20h/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
+</div>
 ## 🌐 Connect with Me
 
 <div align="center">
