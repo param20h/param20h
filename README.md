@@ -34,7 +34,7 @@
 - 🎵 Music lover - coding playlist has 500+ songs
 - 🌙 Night owl - best code happens after midnight
 - ☕ Coffee dependency level: CRITICAL
-- - 🚀 Dream: Build the next unicorn startup
+- 🚀 Dream: Build the next unicorn startup
 
 ## 📊 GitHub Stats
 
