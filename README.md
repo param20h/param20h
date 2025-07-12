@@ -16,7 +16,6 @@
 
 ## 👯 Looking to Collaborate On
 
-- 🚀 Innovative tech projects in AI, Web3, and cloud computing
 - 🏆 Open-source contributions and hackathons like SIH23
 - 💡 Creative problem-solving challenges
 
