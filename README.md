@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,react,vite,aws,mysql,next,express,nodejs,figma,socketio" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm" />
 
 </div>
 
