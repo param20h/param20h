@@ -21,11 +21,12 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,mongodb,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm,unity,githubactions,heroku,graphql,ai&perline=8&theme=dark" />
+</p>
+ 
 
-</div>
 
 ## 🎯 Fun Facts
 
@@ -38,18 +39,18 @@
 ## 📊 GitHub Stats 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param20h&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param20h&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=param20h&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=param20h&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/param20h/param20h/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
+  <img src="https://github.com/param20h/param20h/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
 </div>
 
 ## 💭 Random Dev Quote
