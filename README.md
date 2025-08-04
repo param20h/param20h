@@ -20,7 +20,7 @@
 - 💡 Creative problem-solving challenges
 
 ## 🛠️ Technologies & Tools
-
+ 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,mongodb,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm,unity,githubactions,heroku,graphql&perline=8&theme=dark" />
