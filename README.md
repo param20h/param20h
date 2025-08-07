@@ -16,7 +16,7 @@
 
 ## 👯 Looking to Collaborate On
 
-- 🏆 Open-source contributions and hackathons like SIH23
+- 🏆 Open-source contributions
 - 💡 Creative problem-solving challenges
 
 ## 🛠️ Technologies & Tools
