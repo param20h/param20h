@@ -17,7 +17,7 @@
 ## 👯 Looking to Collaborate On
 
 - 🏆 Open-source contributions
-- 💡 Creative problem-solving challenges
+- 💡 Creative problem-solving challenge
 
 ## 🛠️ Technologies & Tools
  
