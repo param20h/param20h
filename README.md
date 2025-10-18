@@ -13,7 +13,7 @@
 - 🧠 **AI & Machine Learning** - Neural networks to deep learning
 - 🌐 **Blockchain & Web3 Development** - Building the decentralized future
 - ☁️ **Cloud Computing** - Scalable solutions and architecture
-
+ 
 ## 👯 Looking to Collaborate On
  
 - 🏆 Open-source contributions
