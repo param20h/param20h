@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A7%A0;Web3+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /> 
 </div> 
 
-## 🚀 About Me
+## 🚀 About Me 
 
 🔭 I'm a tech enthusiast who loves diving into new challenges, whether it's solving complex algorithms or exploring the latest AI trends. Outside of tech, you'll find me exploring music, gaming, and the latest in pop culture! 
 
