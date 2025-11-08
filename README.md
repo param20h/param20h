@@ -27,7 +27,6 @@
 </p>
  
 
-
 ## 🎯 Fun Facts
 
 - 🎮 Gaming enthusiast who codes between matches
