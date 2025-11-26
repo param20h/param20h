@@ -22,8 +22,11 @@
 ## 🛠️ Technologies & Tools 
  
 
+<!-- <p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,mongodb,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm,unity,githubactions,cloudflare,powershell,terraform,docker,streamlit,jenkins,go,anaconda&perline=8&theme=dark" />
+</p> -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,mongodb,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm,unity,githubactions,cloudflare,powershell,terraform,docker,jenkins,go,anaconda&perline=8&theme=dark" />
+<img src=https://skills.syvixor.com/api/icons?perline=8&i=python,cpp,c,html,css3,tailwindcss,nextjs,typescript,javascript,reactjs,vite,mysql,postgresql,mongodb,expressjs,nodejs,postman,googlecloud,amazonwebservices,googlecolaboratory,tensorflow,pytorch,jupyter,anaconda,fastapi,flask,opencv,streamlit,discord,git,gitbash,githubcopilot,github,githubpages,githubactions,markdown,netlify,unrealengine,linux,kalilinux,npm,yarn,powershell,curl,cloudflare,jenkins,golang>
 </p>
  
 
