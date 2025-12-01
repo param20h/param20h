@@ -11,7 +11,7 @@
 ## 💬 Ask Me About 
 
 - 🧠 **AI & Machine Learning** - Neural networks to deep learning
-- 🌐 **Blockchain & Web3 Development** - Building the decentralized future
+- 🌐 **Web Development** - Building the imagination 
 - ☁️ **Cloud Computing** - Scalable solutions and architecture
  
 ## 👯 Looking to Collaborate On
