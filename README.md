@@ -8,7 +8,7 @@
 
 🔭 I'm a tech enthusiast who loves diving into new challenges, whether it's solving complex algorithms or exploring the latest AI trends. Outside of tech, you'll find me exploring music, gaming, and the latest in pop culture!
 
-## 💬 Ask Me About 
+## 💬 Ask Me About
 
 - 🧠 **AI & Machine Learning** - Neural networks to deep learning
 - 🌐 **Web Development** - Building the imagination 
@@ -16,7 +16,7 @@
  
 ## 👯 Looking to Collaborate On
  
-- 🏆 Open-source contributions
+- 🏆 Open-source contributor
 - 💡 Creative problem-solving challenges
 
 ## 🛠️ Technologies & Tools 
@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,mongodb,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm,unity,githubactions,cloudflare,powershell,terraform,docker,streamlit,jenkins,go,anaconda&perline=8&theme=dark" />
 </p> -->
 <p align="center">
-<img src=https://skills.syvixor.com/api/icons?perline=8&i=python,cpp,c,html,css3,tailwindcss,nextjs,typescript,javascript,reactjs,reactnative,vite,mysql,postgresql,mongodb,expressjs,nodejs,replit,postman,googlecloud,amazonwebservices,googlecolaboratory,tensorflow,pytorch,jupyter,anaconda,fastapi,flask,opencv,streamlit,discord,git,gitbash,githubcopilot,github,githubpages,githubactions,markdown,netlify,unrealengine,linux,kalilinux,npm,yarn,powershell,curl,cloudflare,jenkins,golang,canva>
+<img src=https://skills.syvixor.com/api/icons?perline=8&i=python,cpp,c,html,css3,tailwindcss,nextjs,typescript,javascript,reactjs,reactnative,vite,mysql,postgresql,mongodb,expressjs,nodejs,replit,postman,googlecloud,amazonwebservices,googlecolaboratory,tensorflow,pytorch,jupyter,anaconda,fastapi,flask,opencv,streamlit,discord,git,gitbash,githubcopilot,github,githubpages,githubactions,markdown,netlify,unrealengine,linux,kalilinux,npm,yarn,powershell,curl,cloudflare,jenkins,golang,canva,gemini>
 </p>
  
 
