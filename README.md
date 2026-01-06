@@ -32,7 +32,7 @@
 
 ## 🎯 Fun Facts
 
-- 🎮 Gaming enthusiast who codes between matches
+- 🎮 Gaming enthusiast who codes between matches 
 - 🎵 Music lover - coding playlist has 500+ songs
 - 🌙 Night owl - best code happens after midnight
 - ☕ Coffee dependency level: CRITICAL
