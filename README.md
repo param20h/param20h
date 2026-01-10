@@ -45,7 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param20h&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
 
-<div align="center">
+<div align="center"> 
   <img src="https://nirzak-streak-stats.vercel.app/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
