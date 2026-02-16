@@ -13,7 +13,7 @@
 - 🧠 **AI & Machine Learning** - Neural networks to deep learning
 - 🌐 **Web Development** - Building the imagination 
 - ☁️ **Cloud Computing** - Scalable solutions and architecture
- 
+
 ## 👯 Looking to Collaborate On
  
 - 🏆 Open-source contributor
