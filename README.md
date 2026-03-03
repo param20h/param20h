@@ -5,7 +5,7 @@
 </div>
  
 ## 🚀 About Me
- 
+  
 🔭 I'm a tech enthusiast who loves diving into new challenges, whether it's solving complex algorithms or exploring the latest AI trends. Outside of tech, you'll find me exploring music, gaming, and the latest in pop culture!
 
 ## 💬 Ask Me About 
