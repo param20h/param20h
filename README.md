@@ -19,7 +19,7 @@
 - 🏆 Open-source contributor
 - 💡 Creative problem-solving challenges
 
-## 🛠️ Technologies & Tools 
+## 🛠️ Technologies & Tools
  
 
 <!-- <p align="center">
