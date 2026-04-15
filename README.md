@@ -46,7 +46,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ## 🐍 GitHub Contribution Snake
