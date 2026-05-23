@@ -46,7 +46,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ## 🐍 GitHub Contribution Snake
